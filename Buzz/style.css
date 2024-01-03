@@ -1,0 +1,346 @@
+
+
+
+
+.navbar{
+    position: fixed;
+    top: 0cm;
+    background-color: black;
+color: azure;
+}
+.navbar-brand{
+    font-family: 'Monoton', sans-serif;
+    color: aliceblue;
+    font-size: 30px;
+}
+.tagline{
+
+    font-family: 'Playfair Display', serif;
+    font-size: larger;
+    text-align: center;
+    
+}
+.container{
+    padding: 2rem;
+    
+}
+.card-footer{
+color:white;
+background-color: #60080d;
+}
+
+.col{
+    border-radius: 5rem;
+
+}
+
+
+.body{
+    background-color: beige;
+}
+.card:hover{
+    transform: scale(1.1);
+    color: red;
+}
+.nav-item:hover{
+background-color: brown;
+transform: scale(1.2);
+}
+.nav-item{
+color: aliceblue;
+}
+.scrolline{
+    background-color: rgb(148, 10, 10);
+    padding: 1rem;
+    color: aliceblue;
+}
+.img:hover {
+    content: url("deepika.webp");
+}
+.row{
+    padding: 2rem;
+}
+.next{
+   justify-content: center;
+    padding: 1rem;
+}
+.next:hover{
+    background-color: brown;
+}
+.blue{
+    color: blue;
+}
+.line {
+    border: 5px solid rgb(113, 6, 6);
+}
+.branchname{
+    color: black;
+}
+.branch{
+    display: flex;
+    width: 100%;
+}
+.modbtn:hover{
+    color: rgb(127, 10, 10);
+}
+
+
+
+.right-bck {
+    background-color: #0d0a0a
+}
+
+.registration-right {
+    width: 80%;
+    padding-top: 50px;
+    padding-bottom: 50px
+}
+
+.registration-right h2 {
+    color: #ffffff;
+    font-weight: 700;
+    padding-bottom: 20px
+}
+
+.registration .btn {
+    width: 100%
+}
+
+.fa,
+.fas,
+.fab {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900
+}
+
+.far {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400
+}
+
+.event-list .card {
+    background-color: #71090e;
+    padding: 18px;
+    margin-bottom: 3px
+}
+
+.event-list img {
+    width: 77px;
+    height: 77px
+}
+
+.event-list h4 {
+    color: #c0bfc9;
+    font-size: 16px
+}
+
+.event-list .card-title span {
+    padding-left: 5px;
+    padding-right: 20px;
+    font-size: 12px;
+    font-weight: 700
+}
+
+.event-list .card-text {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px
+}
+
+.event-list .card-body {
+    padding: 0 20px;
+    margin: 0 0 10px 0
+}
+
+.event-list .card-title svg {
+    color: #ffffff
+}
+.filters{
+    padding: 1rem;
+   
+}
+
+.block {
+    font-size: xx-large;
+    text-align: center;
+   
+font-family: 'Bungee Spice', sans-serif;
+}
+.block:hover{
+    transform: scale(1.5);
+}
+.carousel-inner{
+    justify-content: center;
+}
+/* dfghjk */
+.mdi {
+    font-size: 50px;
+}
+
+.padding {
+    padding: 8rem !important;
+}
+/*  */
+
+
+/* subscribe */
+.newsletter {
+    padding: 80px 0;
+    background: #630820;
+}
+
+
+.newsletter .content {
+
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2;
+
+}
+
+.content-tuned {
+    font-size: 0.8rem;
+    margin-bottom: 34px !important;
+    color: #fff;
+}
+
+
+h2 {
+
+    color: #fff;
+    margin-bottom: 6px;
+
+}
+
+.form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius: 2px 0px 0px 2px;
+}
+
+
+.form-control:focus {
+    box-shadow: none !important;
+    border: 2px solid #243c4f;
+    border-color: none;
+
+}
+
+
+.btn {
+    min-height: 50px;
+    border-radius: 0;
+    background: #243c4f;
+    color: #fff;
+    font-weight: 300;
+}
+
+.btn:hover {
+
+    background: red;
+    color: #fff
+}
+
+
+.form-control:focus {
+    color: #0e0f10;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgba(0, 123, 255, .25) !important;
+}
+
+.unsubscribe-link {
+    text-decoration: none !important;
+
+    font-size: 13px;
+    color: #fff;
+}
+
+.unsubscribe-link:hover {
+    text-decoration: none !important;
+
+    color: #fff;
+
+}
+
+/* footer */
+
+
+/* ----------------------------------------------------------------------------------------------------------- */
+.bg-footer {
+    background-color: #0e0e0f;
+    padding: 50px 0 30px;
+}
+
+.footer-heading {
+    letter-spacing: 2px;
+}
+
+.footer-link a {
+    color: #acacac;
+    line-height: 40px;
+    font-size: 14px;
+    transition: all 0.5s;
+}
+
+.footer-link a:hover {
+    color: #1bbc9b;
+}
+
+.contact-info {
+    color: #acacac;
+    font-size: 14px;
+}
+
+.footer-social-icon {
+    font-size: 15px;
+    height: 34px;
+    width: 34px;
+    line-height: 34px;
+    border-radius: 3px;
+    text-align: center;
+    display: inline-block;
+}
+
+.facebook {
+    background-color: #4e71a8;
+    color: #ffffff;
+}
+
+.twitter {
+    background-color: #55acee;
+    color: #ffffff;
+}
+
+.google {
+    background-color: #d6492f;
+    color: #ffffff;
+}
+
+.apple {
+    background-color: #424041;
+    color: #ffffff;
+}
+
+.footer-alt {
+    color: #acacac;
+}
+
+.footer-heading {
+    position: relative;
+    padding-bottom: 12px;
+}
+
+.footer-heading:after {
+    content: '';
+    width: 25px;
+    border-bottom: 1px solid #FFF;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    display: block;
+    border-bottom: 1px solid #1bbc9b;
+}
